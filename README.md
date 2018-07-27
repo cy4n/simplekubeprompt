@@ -1,6 +1,8 @@
 # simplekubeprompt
 bash functions to enhance the bash prompt by showing the currently configured kubectl context and namespace from .kube/config
 
+creds for the "get namespace" part to https://twitter.com/red_suraj
+
 # Usage
 
 source ```functions.sh``` in your .bashrc, then use the functions in your bash PS1 (like in  ```exampleprompt.sh```)
